@@ -1,7 +1,8 @@
 import React from "react";
+import Header from "./Header";
 
 function App() {
-  return <div>This is the brand new react project</div>;
+  return <Header />;
 }
 
 export default App;
