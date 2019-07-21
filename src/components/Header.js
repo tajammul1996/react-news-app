@@ -4,7 +4,7 @@ import "./styles/headerStyles.css";
 const Header = () => {
   return (
     <div className="headerStyle">
-      <h1 className="headerText">Header</h1>
+      <h1 className="headerText">News feed</h1>
     </div>
   );
 };

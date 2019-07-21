@@ -1,9 +1,10 @@
 .headerStyle {
-  background-color: #d3d3d3;
+  background-color: rgba(87, 155, 158, 0.491);
   text-align: center;
 }
 
 .headerText {
-  color: #fff;
+  color: rgb(255, 255, 255);
   margin: 0;
+  font-size: 3em;
 }
