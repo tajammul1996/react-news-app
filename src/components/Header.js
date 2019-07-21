@@ -1,9 +1,10 @@
 import React from "react";
+import "./styles/headerStyles.css";
 
 const Header = () => {
   return (
-    <div style={{ backgroundColor: "#D3D3D3", textAlign: "center" }}>
-      <h1 style={{ color: "#fff" }}>Header</h1>
+    <div className="headerStyle">
+      <h1 className="headerText">Header</h1>
     </div>
   );
 };
