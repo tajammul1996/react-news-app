@@ -1,13 +1,10 @@
 import React from "react";
-import Header from "./Header";
-import NewsListItem from "./NewsListitem";
+import NewsPage from "./NewsPage";
 
 function App() {
   return (
     <div>
-      <Header />
-      <NewsListItem />
-      <NewsListItem />
+      <NewsPage />
     </div>
   );
 }
